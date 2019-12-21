@@ -1,2 +1,2 @@
 # googlecharts
-Google charts
+Simple bar chart using google charts
